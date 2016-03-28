@@ -1,1 +1,25 @@
-{"attackers":["Sledge","Thatcher","Ash","Thermite","Twitch","Montagne","Glaz","Fuze","Blitz","IQ","Buck"],"defenders":["Smoke","Mute","Castle","Pulse","Doc","Rook","Kapkan","Tachanka","Jager","Bandit","Frost"]}
+{"attackers":[
+  "Ash",
+  "Blitz",
+  "Buck",
+  "Fuze",
+  "Glaz",
+  "IQ",
+  "Montagne",
+  "Sledge",
+  "Thatcher",
+  "Thermite",
+  "Twitch"
+],"defenders":[
+  "Bandit",
+  "Castle",
+  "Doc",
+  "Frost",
+  "Jager",
+  "Kapkan",
+  "Mute",
+  "Pulse",
+  "Rook",
+  "Smoke",
+  "Tachanka"
+]}
