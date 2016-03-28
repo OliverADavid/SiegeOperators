@@ -13,6 +13,8 @@ body {
     color: rgb(236, 240, 241);
     font-size: 18px;
 }
+p { margin: 0;}
+a { font-size: 0.7em;}
 #container {
     margin: 1em auto;
     float: none;
@@ -75,4 +77,3 @@ span {
     opacity: 0.5;
     color: #000;
 }
-@media only screen and (min-device-width : 320px) and (max-device-width : 568px) { body {font-size: 28px; zoom: 1;}}
