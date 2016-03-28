@@ -1,0 +1,14 @@
+v0.1b | March 28, 2016
+    * ReadMe has a link to a live demo
+    * Recruit image added to Operator PSD (UN Flag)
+    * Recruit is now the default placeholder on first load
+    * Operators.json has been reformatted for readability purposes
+    * Disclaimer text is now readable (Black vs White)
+    * Changed Favicon to "dice" (ICO saved in /images/source)
+    * Re-Ordered Meta tags in index.html
+    * Added Meta Title/Description tags
+    * Added proper Doctype declaration
+    * Updated jQuery link to be asynchronous and deferred
+
+v0.1 | March 27, 2016
+    * Initial Commit

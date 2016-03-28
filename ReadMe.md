@@ -1,6 +1,8 @@
 #Rainbow Six: Siege | Random Operators
 A simple setup that utilizes jQuery to randomly select a Rainbow Six: Siege operator.
 
+Demo: [http://orcicorn.com/siege](http://orcicorn.com/siege)
+
 ## Note
 includes/css/style.css and includes/js/global.js are included simply as an unmodified and readable format.  Both of these 
 files are minified/uglified and used directly from within the index.html due to their small size.  If you choose to change 
