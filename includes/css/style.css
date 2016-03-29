@@ -52,12 +52,15 @@ h2 {
 }
 span {
     background: rgba(189, 195, 199, 0.5);
+    line-height: 64px;
+    height: 64px;
+    text-align: left;
     margin: 0 0 -1.5em 0;
     display: block;
     font-size: 2.2em;
     color: #000;
     text-transform: uppercase;
-    padding: 0.25em 0;
+    padding: 0;
     position: relative;
     top: -4em;
     font-weight: 700;
@@ -77,3 +80,35 @@ span {
     opacity: 0.5;
     color: #000;
 }
+.icon {
+    width: 64px;
+    height: 64px;
+    background-image: url("/images/icons/sprite.png");
+    margin: 0 0.4em -1em 0.25em;
+    position: relative;
+    top: -0.54em;
+    display: inline-block;
+}
+.icon:after { overflow: auto; zoom: 1;}
+.icon.Ash { background-position: 0 0;}
+.icon.Bandit { background-position: -64px 0;}
+.icon.Blitz { background-position: -128px 0;}
+.icon.Buck { background-position: -192px 0;}
+.icon.Castle { background-position: -256px 0;}
+.icon.Doc { background-position: -320px 0;}
+.icon.Frost { background-position: -384px 0;}
+.icon.Fuze { background-position: -448px 0;}
+.icon.Glaz { background-position: 0 -64px;}
+.icon.IQ { background-position: -64px -64px;}
+.icon.Jager {background-position: -128px -64px;}
+.icon.Kapkan { background-position: -192px -64px;}
+.icon.Montagne {background-position: -256px -64px;}
+.icon.Mute { background-position: -320px -64px;}
+.icon.Pulse { background-position: -384px -64px;}
+.icon.Rook { background-position: -448px -64px;}
+.icon.Sledge { background-position: 0 -128px;}
+.icon.Smoke { background-position: -64px -128px;}
+.icon.Tachanka { background-position: -128px -128px;}
+.icon.Thatcher { background-position: -192px -128px;}
+.icon.Thermite { background-position: -256px -128px;}
+.icon.Twitch { background-position: -320px -128px;}

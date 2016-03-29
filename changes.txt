@@ -1,3 +1,7 @@
+v0.2 | March 28, 2016
+   * Added operator icons
+   * Operator array is now shuffled randomly when first loaded
+
 v0.1c | March 28, 2016
     * Removed async/defer from jQuery script. Stops all logic on live, despite working on dev
     * Removed Media-Query debug code from style.css
