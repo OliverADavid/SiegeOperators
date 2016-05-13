@@ -1,0 +1,20 @@
+/*  streamer.css
+ *      NOTE: These rules are used to over-ride the existing styles to produce a simple
+ *      green screen mode that can be used with ChromaKeys while streaming.
+ #
+ *      Due to the incredibly tiny size of this script, it is minified and then embedded directly
+ *      into the index.html document.  This is provided merely for debugging.
+ */
+
+body {
+    background: #00FF00;
+}
+.btn-success {
+    background-color: #3498db;
+}
+.btn-success:hover,
+.btn-success:active,
+.btn-success:focus,
+.btn-success:active:focus {
+    background-color: #2980b9;
+}
