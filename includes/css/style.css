@@ -83,7 +83,7 @@ span {
 .icon {
     width: 64px;
     height: 64px;
-    background-image: url("/images/icons/sprite.png");
+    background-image: url("images/icons/sprite.png");
     margin: 0 0.4em -1em 0.25em;
     position: relative;
     top: -0.54em;
