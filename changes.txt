@@ -1,4 +1,7 @@
-v0.3 | May 13, 106
+v0.4 | August 11, 2016
+  * Added Capitao and Caveira
+
+v0.3 | May 13, 2016
   * Added Blackbeard and Valkyrie
   * Added green screen mode for Chroma Key (streamer.html)
 

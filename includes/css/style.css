@@ -94,7 +94,9 @@ span {
 .icon.Bandit { background-position: -64px 0;}
 .icon.Blitz { background-position: -128px 0;}
 .icon.Buck { background-position: -192px 0;}
+.icon.Capitao { background-position: 0px -192px;}
 .icon.Castle { background-position: -256px 0;}
+.icon.Caveira { background-position: -64px -192px;}
 .icon.Doc { background-position: -320px 0;}
 .icon.Frost { background-position: -384px 0;}
 .icon.Fuze { background-position: -448px 0;}
