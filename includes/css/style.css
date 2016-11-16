@@ -93,14 +93,17 @@ span {
 .icon.Ash { background-position: 0 0;}
 .icon.Bandit { background-position: -64px 0;}
 .icon.Blitz { background-position: -128px 0;}
+.icon.Blackbeard { background-position: -384px -128px}
 .icon.Buck { background-position: -192px 0;}
 .icon.Capitao { background-position: 0px -192px;}
 .icon.Castle { background-position: -256px 0;}
 .icon.Caveira { background-position: -64px -192px;}
 .icon.Doc { background-position: -320px 0;}
+.icon.Echo { background-position: -128px -192px;}
 .icon.Frost { background-position: -384px 0;}
 .icon.Fuze { background-position: -448px 0;}
 .icon.Glaz { background-position: 0 -64px;}
+.icon.Hibana { background-position: -192px -192px;}
 .icon.IQ { background-position: -64px -64px;}
 .icon.Jager {background-position: -128px -64px;}
 .icon.Kapkan { background-position: -192px -64px;}
@@ -114,5 +117,4 @@ span {
 .icon.Thatcher { background-position: -192px -128px;}
 .icon.Thermite { background-position: -256px -128px;}
 .icon.Twitch { background-position: -320px -128px;}
-.icon.Blackbeard { background-position: -384px -128px}
 .icon.Valkyrie { background-position: -448px -128px;}
