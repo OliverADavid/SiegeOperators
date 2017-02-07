@@ -1,5 +1,6 @@
 v0.6 | February 7, 2017
   * Added Jackal and Mira
+  * Added personal analytics (self-hosted piwik)
 
 v0.5 | November 16, 2016
   * Added Echo and Hibana
