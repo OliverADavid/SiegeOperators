@@ -1,3 +1,6 @@
+v0.6 | February 7, 2017
+  * Added Jackal and Mira
+
 v0.5 | November 16, 2016
   * Added Echo and Hibana
   * Added Change Log link
