@@ -1,28 +1,35 @@
-v0.6 | February 7, 2017
-  * Added Jackal and Mira
-  * Added personal analytics (self-hosted piwik)
+1.0.5 | September 1, 2017
+  * Added Lesion and Ying (Hong Kong)
+  * Added Ela (Polish Defender) [Temporary Image]
+  * Versions refactored to be a little more semantic
+  * Removed personal analytics from repository copies
+  * Added Link to Twitter Contact
 
-v0.5 | November 16, 2016
-  * Added Echo and Hibana
+1.0.4 | February 7, 2017
+  * Added Jackal and Mira (Spain)
+  * Added personal analytics [Removed, September 2017]
+
+1.0.3 | November 16, 2016
+  * Added Echo and Hibana (Japan)
   * Added Change Log link
 
-v0.4 | August 11, 2016
-  * Added Capitao and Caveira
+1.0.2 | August 11, 2016
+  * Added Capitao and Caveira (Brazil)
 
-v0.3 | May 13, 2016
-  * Added Blackbeard and Valkyrie
+1.0.1 | May 13, 2016
+  * Added Blackbeard and Valkyrie (USA Seals)
   * Added green screen mode for Chroma Key (streamer.html)
 
-v0.2 | March 28, 2016
+1.0.0 | March 28, 2016
    * Added operator icons
    * Operator array is now shuffled randomly when first loaded
 
-v0.1c | March 28, 2016
+0.1.2-rc.3 | March 28, 2016
     * Removed async/defer from jQuery script. Stops all logic on live, despite working on dev
     * Removed Media-Query debug code from style.css
     * Added link to Github Repo (https://github.com/orcicorn/siegeoperators)
 
-v0.1b | March 28, 2016
+0.1.1-rc.2 | March 28, 2016
     * ReadMe has a link to a live demo
     * Recruit image added to Operator PSD (UN Flag)
     * Recruit is now the default placeholder on first load
@@ -34,5 +41,5 @@ v0.1b | March 28, 2016
     * Added proper Doctype declaration
     * Updated jQuery link to be asynchronous and deferred
 
-v0.1 | March 27, 2016
+0.1.0-rc.1 | March 27, 2016
     * Initial Commit

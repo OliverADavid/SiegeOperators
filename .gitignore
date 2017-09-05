@@ -1,2 +1,9 @@
+#Dev Stuff
 .idea
-index-orcicorn.html
+
+#Custom stuff for Personal Host
+orc-index.html
+orc-streamer.html
+images/custom/*
+robots.txt
+sitemap.xml
