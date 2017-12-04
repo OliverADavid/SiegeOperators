@@ -1,4 +1,11 @@
+1.0.6 | December 4, 2017
+  * Operation White Noise (Year 2, Season 4)
+  * Added Dokkaebi and Vigil (South Korea)
+  * Added Zofia (Polish Attacker)
+  * Prepended Operations to localized versions
+
 1.0.5 | September 1, 2017
+  * Operation Blood Orchid (Year 2, Season 3)
   * Added Lesion and Ying (Hong Kong)
   * Added Ela (Polish Defender) [Temporary Image]
   * Versions refactored to be a little more semantic
@@ -6,17 +13,21 @@
   * Added Link to Twitter Contact
 
 1.0.4 | February 7, 2017
+  * Operation Velvet Shell (Year 2, Season 1)
   * Added Jackal and Mira (Spain)
   * Added personal analytics [Removed, September 2017]
 
 1.0.3 | November 16, 2016
+  * Operation Red Crow (Year 1, Season 4)
   * Added Echo and Hibana (Japan)
   * Added Change Log link
 
 1.0.2 | August 11, 2016
+  * Operation Skull Rain (Year 1, Season 3)
   * Added Capitao and Caveira (Brazil)
 
 1.0.1 | May 13, 2016
+  * Operation Dust Line (Year 1, Season 2)
   * Added Blackbeard and Valkyrie (USA Seals)
   * Added green screen mode for Chroma Key (streamer.html)
 
