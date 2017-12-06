@@ -1,3 +1,6 @@
+1.0.7 | December 6, 2017
+  * Added Recruit as Attacker/Defender (Requested @1ogan_cherry07)
+
 1.0.6 | December 4, 2017
   * Operation White Noise (Year 2, Season 4)
   * Added Dokkaebi and Vigil (South Korea)
