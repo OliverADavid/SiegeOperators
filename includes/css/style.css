@@ -19,7 +19,7 @@ a { font-size: 0.7em;}
     margin: 1em auto;
     float: none;
     text-align: center;
-    max-width: 400px;
+    /*max-width: 400px;*/
     width: 100%;
 }
 h1,h2 {
@@ -134,3 +134,5 @@ span {
 .icon.Dokkaebi { background-position: -128px -256px; }
 .icon.Vigil { background-position: -192px -256px; }
 .icon.Recruit { background-position: -256px -256px; }
+.icon.Finka { background-position: -320px -256px; }
+.icon.Lion { background-position: -384px -256px; }

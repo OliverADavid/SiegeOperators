@@ -4,7 +4,7 @@
  */
 
 $(document).ready(function(){
-    var sJSON ='operators.json';                                               //The path to the JSON data of Operators
+    var sJSON ='operators.json?v=180307';                                      //The path to the JSON data of Operators
     var oImage = $("#opimg");                                                  //HTML ID for the Operator Image to change
     var oName = $("#opname");                                                  //HTML ID for the SPan that contains operator names
     var sPathImg = "images/operators/";                                        //Path to the Operator images (not including image name)

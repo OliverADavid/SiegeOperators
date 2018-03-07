@@ -1,3 +1,9 @@
+1.0.8 | March 7, 2018
+  * Operation Chimera (Year 3, Season 1)
+  * Added Finka and Lion attackers (CBRN / Russia)
+  * [Site] Default mobile-zoom changed to 0.7 (was 0.5)
+  * [Site] Cache-busting Query string added to JSON Include
+
 1.0.7 | December 6, 2017
   * Added Recruit as Attacker/Defender (Requested @1ogan_cherry07)
 
